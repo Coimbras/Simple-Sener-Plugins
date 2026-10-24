@@ -1,0 +1,9 @@
+{
+  "id": "simple-sener-plugins",
+  "name": "Simple Sener Plugins",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Render simple table cell merges in Reading view. Image and Table Captions",
+  "author": "José Coimbras - Sener",
+  "isDesktopOnly": false
+}

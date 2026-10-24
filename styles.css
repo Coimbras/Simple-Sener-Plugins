@@ -1,0 +1,5 @@
+/* Minimal styling: let the active Obsidian theme determine table appearance. */
+.markdown-reading-view table.stm-table-processed td.stm-merged-cell,
+.markdown-reading-view table.stm-table-processed th.stm-merged-cell {
+  vertical-align: middle;
+}
